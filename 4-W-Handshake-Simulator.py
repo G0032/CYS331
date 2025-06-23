@@ -333,7 +333,7 @@ def display_header():
     print()
     print("=" * 70)
     print("STUDENT: Gabriel Kapambwe")
-    print("SIN#: ")
+    print("SIN#: 20230192 ")
     print("Program: CyberSecurity")
     print("=" * 70)
     print("Task: 4-Way Handshake Simulator")
